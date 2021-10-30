@@ -8,7 +8,7 @@ namespace Chapter1
         {
             try
             {
-                IMain m = new Listing1_5();
+                IMain m = new Listing1_6();
 
                 m.Run();
             }
