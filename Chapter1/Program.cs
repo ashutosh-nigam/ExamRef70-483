@@ -1,4 +1,5 @@
 using System;
+using Chapter1.Tasks;
 using Chapter1.Threads;
 
 namespace Chapter1
@@ -9,7 +10,7 @@ namespace Chapter1
         {
             try
             {
-                IMain m = new Listing1_7();
+                IMain m = new Listing1_11();
 
                 m.Run();
             }

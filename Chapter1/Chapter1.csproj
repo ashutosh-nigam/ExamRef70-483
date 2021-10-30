@@ -6,8 +6,4 @@
         <RootNamespace>Listing1_1</RootNamespace>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Folder Include="Tasks" />
-    </ItemGroup>
-
 </Project>
