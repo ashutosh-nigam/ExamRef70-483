@@ -1,7 +1,8 @@
 # Programming in C#
 ## [Exam Reference 70-483](https://docs.microsoft.com/en-us/learn/certifications/exams/70-483)
 
-> [![N|Solid](https://th.bing.com/th/id/OIP.yQs9SRGE1VJ8qPhyJRhO4gAAAA?w=320&h=68&c=7&r=0&o=5&dpr=2&pid=1.7)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://logorealm.com/wp-content/uploads/2017/05/Microsoft.png)](https://nodesource.com/products/nsolid)
+
 
 This exam retired on January 31, 2021. For currently available options, please refer to the Browse Certifications and Exams page.
 
