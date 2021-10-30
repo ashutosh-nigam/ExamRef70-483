@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-namespace Chapter1
+namespace Chapter1.Threads
 {
     /// <summary>
     /// Using a Background Thread
