@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter1", "Chapter1\Chapter1.csproj", "{F87CA06F-AF3D-4C29-A2E4-F6BC94636D23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C24EBD5F-9FA5-4851-A1A6-436E3CD85D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24EBD5F-9FA5-4851-A1A6-436E3CD85D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24EBD5F-9FA5-4851-A1A6-436E3CD85D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24EBD5F-9FA5-4851-A1A6-436E3CD85D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87CA06F-AF3D-4C29-A2E4-F6BC94636D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87CA06F-AF3D-4C29-A2E4-F6BC94636D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87CA06F-AF3D-4C29-A2E4-F6BC94636D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87CA06F-AF3D-4C29-A2E4-F6BC94636D23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
