@@ -3,19 +3,19 @@ using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Running;
 using Chapter1.AsyncAwait;
 using Chapter1.Parallels;
+using Chapter1.PLINQ;
 using Chapter1.Tasks;
 using Chapter1.Threads;
 
 namespace Chapter1
 {
-
     public class Program
     {
         public static void Main()
         {
             try
             {
-                IMain m = new Listing1_18();
+                IMain m = new Listing1_27();
 
                 m.Run();
                 //var summary = BenchmarkRunner.Run(typeof(Program).Assembly);
