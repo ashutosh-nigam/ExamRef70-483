@@ -4,6 +4,9 @@ using System.Threading.Tasks;
 
 namespace Chapter1.PLINQ
 {
+    /// <summary>
+    /// Using BlockingCollection<![CDATA[>nigam]]>
+    /// </summary>
     public class Listing1_28 : IMain
     {
         public void Run()

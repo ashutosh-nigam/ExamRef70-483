@@ -15,7 +15,7 @@ namespace Chapter1
         {
             try
             {
-                IMain m = new Listing1_28();
+                IMain m = new Listing1_34();
 
                 m.Run();
                 //var summary = BenchmarkRunner.Run(typeof(Program).Assembly);

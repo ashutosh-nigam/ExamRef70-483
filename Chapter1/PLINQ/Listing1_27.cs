@@ -3,6 +3,9 @@ using System.Linq;
 
 namespace Chapter1.PLINQ
 {
+    /// <summary>
+    /// Caching AggregateException
+    /// </summary>
     public class Listing1_27 : IMain
     {
         public void Run()
