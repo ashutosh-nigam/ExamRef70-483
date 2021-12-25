@@ -2,6 +2,7 @@ using System;
 using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Running;
 using Chapter1.AsyncAwait;
+using Chapter1.EventsCallbacks;
 using Chapter1.Parallels;
 using Chapter1.PLINQ;
 using Chapter1.Tasks;
@@ -15,8 +16,8 @@ namespace Chapter1
         {
             try
             {
-                IMain m = new Listing1_34();
-
+                IMain m = new Listing1_76();
+                Console.WriteLine(m.GetType().Name);
                 m.Run();
                 //var summary = BenchmarkRunner.Run(typeof(Program).Assembly);
             }
