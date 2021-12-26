@@ -4,6 +4,9 @@ using System.Threading.Tasks;
 
 namespace Chapter1.Tasks
 {
+    /// <summary>
+    /// Scheduling different continuation tasks
+    /// </summary>
     public class Listing1_11  : IMain
     {
         public void Run()
